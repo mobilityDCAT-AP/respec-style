@@ -1,0 +1,13 @@
+
+/* Style for an "Unofficial Draft" */
+
+@import "base.css";
+
+body {
+  background-image: url(https://semiceu.github.io/respec-style/logos/UD.png);
+  background-color: transparent;
+}
+
+html {
+  background: white url(https://semiceu.github.io/respec-style/logos/UD-watermark.png);
+}
