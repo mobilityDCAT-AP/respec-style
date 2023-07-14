@@ -4,11 +4,11 @@
 @import "base.css";
 
 body {
-  background-image: url(https://mobilitydcat-ap.github.io/respec-style/logos/ED.svg);
+  /* background-image: url(https://mobilitydcat-ap.github.io/respec-style/logos/ED.svg); */
   background-color: transparent;
 }
 
 html {
-  background-image: url(https://mobilitydcat-ap.github.io/logos/ED-watermark.svg);
+  background-image: url(https://mobilitydcat-ap.github.io/respec-style/logos/ED-watermark.svg);
   background-color: transparent;
 }
